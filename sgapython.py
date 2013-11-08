@@ -214,6 +214,9 @@ def main():
         curGen+=1
 
     finalReport(population)
+
+if __name__ == '__main__':
+    main()
         
     
     
